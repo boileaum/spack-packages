@@ -17,6 +17,7 @@ class PyScimba(PythonPackage):
     maintainers("tpadioleau")
 
     license("MIT", checked_by="tpadioleau")
+    version("1.4.2-test", sha256="0123456789abcdef0123456789abcdef0123456789abcdef0123456789abcdef")
 
     version("1.3.4", sha256="7b555633c577c043b73417f86a85ca2c71837e4310fc114de7ada31a1f60a755")
 
